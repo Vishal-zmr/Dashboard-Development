@@ -40,3 +40,8 @@ KPI Cards: Highlights key indicators such as total confirmed cases, total deaths
 
 This task enhanced my data visualisation and dashboard designing skills. I learnt how to create interactive dashboards using Tableau, integrate multiple visualisations effectively, and derive actionable insights for business or health policy decisions. This practical exposure will strengthen my future data analytics and business intelligence projects.
 Tool I Used: Tableau Desktop
+
+#OUTPUT
+
+<img width="1143" height="678" alt="Image" src="https://github.com/user-attachments/assets/9086d1ec-832b-4d05-8e8c-543fea9da77d" />
+<img width="1883" height="978" alt="Image" src="https://github.com/user-attachments/assets/10f1323e-7598-4ecd-aeb3-b5e01d6c6624" />
